@@ -1,4 +1,4 @@
-# Kigali City Services & Places Directory (Flutter + Firebase)
+# The Kigali City Services & Places Directory (Flutter + Firebase)
 
 ## Overview
 
